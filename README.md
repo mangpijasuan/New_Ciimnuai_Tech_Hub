@@ -1,2 +1,2 @@
 # Zomi-Translation-Project
-A translation project for English-Zomi and Zomi-English.
+This project aims to develop an AI-driven translation system that converts English text to Zomi. Leveraging Natural Language Processing (NLP) techniques and transformer-based models, the project will process and translate sentences from English to Zomi with a focus on accuracy, fluency, and usability.
