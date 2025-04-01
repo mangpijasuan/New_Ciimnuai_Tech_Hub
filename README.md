@@ -81,7 +81,7 @@ python seed_data.py
 
 ✅ **Completed**  
 🚧 **In Progress / Upcoming**  
-- [] Implement Zomi Dictionary  
+- [ ] Implement Zomi Dictionary  
 - [ ] Add AI Translation API  
 - [ ] Develop AI Website Generator  
 - [ ] Deploy Automated Trading Bot  
