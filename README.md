@@ -63,9 +63,9 @@ After achieving financial stability and a strong user base, tackle ambitious, re
 
 | **PHASE**  | **TIMELINE**            | **MILESTONES**  |
 |------------|-------------------------|----------------|
-| Phase 1   | Q1 2025 - Q2 2026       | Launch Zomi Neural Translate, Smart Dictionary+, AI Tutor, Digital Heritage. |
-| Phase 2   | Q3 2026 - Q4 2027       | Roll out AutoDev AI, Business Process Copilot, Algorithmic Trading Nexus Beta. |
-| Phase 3   | Q1 2028 - Q4 2030       | Quantum AI Lab, Post-Quantum Cryptography, Global Launch, Open-Source Tools. |
+| Phase 1   | 2025 - 2026       | Launch Zomi Neural Translate, Smart Dictionary+, AI Tutor, Digital Heritage. |
+| Phase 2   | 2026 - 2027       | Roll out AutoDev AI, Business Process Copilot, Algorithmic Trading Nexus Beta. |
+| Phase 3   | 2028 - 2030       | Quantum AI Lab, Post-Quantum Cryptography, Global Launch, Open-Source Tools. |
 
 ## Call to Action
 🚀 **Join us in building the first AI platform designed by and for the Zomi community—where technology strengthens cultural identity.**
