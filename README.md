@@ -1,5 +1,4 @@
 # Zomi Info Tech
-
 ## Overview  
 Zomi Info Tech is a platform designed to provide various services, including:  
 
