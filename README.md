@@ -1,15 +1,16 @@
 # Zomi Info Tech
 
-## Overview
-Zomi Info Tech is a platform designed to provide various services, including:
-- **Zomi Dictionary**: A comprehensive dictionary for English-Zomi translation.
-- **Zomi AI Translation**: AI-powered translation between English and Zomi.
-- **AI Website Generator**: Generates website templates based on user-selected AI-prompted sentences.
-- **Automated Trading System**: AI-driven trading bot for financial markets.
-- **Cybersecurity Service**: Security assessments, threat detection, and mitigation.
-- **FinTech Solutions**: Information and tools related to financial technology.
-- **Machine Learning & AI**: Learning resources and applications in AI and ML.
-- **Learning Management System (LMS)**: A platform for educational content and training.
+## Overview  
+Zomi Info Tech is a platform designed to provide various services, including:  
+
+1. **Zomi Dictionary** – A comprehensive dictionary for English-Zomi translation.  
+2. **Zomi AI Translation** – AI-powered translation between English and Zomi.  
+3. **AI Website Generator** – Generates website templates based on user-selected AI-prompted sentences.  
+4. **Automated Trading System** – AI-driven trading bot for financial markets.  
+5. **Cybersecurity Service** – Security assessments, threat detection, and mitigation.  
+6. **FinTech Solutions** – Information and tools related to financial technology.  
+7. **Machine Learning & AI** – Learning resources and applications in AI and ML.  
+8. **Learning Management System (LMS)** – A platform for educational content and training.  
 
 ## Project Directory Structure
 ```
@@ -77,7 +78,7 @@ python seed_data.py
 ```
 
 ## Roadmap
-- [ ] Implement Zomi Dictionary
+- [x] Implement Zomi Dictionary
 - [ ] Add AI Translation API
 - [ ] Develop AI Website Generator
 - [ ] Deploy Automated Trading Bot
