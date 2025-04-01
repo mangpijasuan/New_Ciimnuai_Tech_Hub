@@ -77,14 +77,20 @@ cd database
 python seed_data.py
 ```
 
-## Roadmap
-- [x] Implement Zomi Dictionary
-- [ ] Add AI Translation API
-- [ ] Develop AI Website Generator
-- [ ] Deploy Automated Trading Bot
-- [ ] Launch Cybersecurity Services
-- [ ] Expand FinTech Resources
-- [ ] Integrate Learning Management System
+## Roadmap  
+
+✅ **Completed**  
+- [x] Implement Zomi Dictionary  
+
+🚧 **In Progress / Upcoming**  
+- [ ] Add AI Translation API  
+- [ ] Develop AI Website Generator  
+- [ ] Deploy Automated Trading Bot  
+- [ ] Launch Cybersecurity Services  
+- [ ] Expand FinTech Resources  
+- [ ] Integrate Learning Management System  
+- [ ] Provide Machine Learning & AI Resources  
+
 
 ## Contribution
 Contributions are welcome! Fork the repo and submit a pull request.
