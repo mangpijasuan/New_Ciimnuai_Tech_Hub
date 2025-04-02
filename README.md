@@ -2,8 +2,6 @@
 **Empowering the Zomi Community Through AI & Innovation**  
 *(Preserving Culture • Advancing Technology • Building the Future)*  
 
-![Zomi Tech Hub Banner](https://via.placeholder.com/1200x400?text=Zomi+Tech+Hub+-+AI+%26+Cultural+Preservation)  
-
 ---
 
 ## 🌟 **Why Zomi Tech Hub?**  
