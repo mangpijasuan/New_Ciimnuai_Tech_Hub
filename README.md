@@ -1,8 +1,8 @@
-# New Ciimnuai Tech Hub
+# Zomi Tech Hub
 **Empowering Zomi Through Technology**
 
 ## Overview
-The New Ciimnuai Tech Hub is an AI-powered platform dedicated to advancing technology while preserving and celebrating Zomi culture. By integrating artificial intelligence, quantum computing, fintech, and cultural preservation, we aim to empower the Zomi community and beyond.
+The Zomi Tech Hub is an AI-powered platform dedicated to advancing technology while preserving and celebrating Zomi culture. By integrating artificial intelligence, quantum computing, fintech, and cultural preservation, we aim to empower the Zomi community and beyond.
 
 Our phased approach ensures steady progress, starting with foundational initiatives and scaling to advanced features as resources grow.
 
