@@ -54,8 +54,8 @@ We welcome developers, researchers, and community advocates!
 1. **Fork this repository** 📌  
 2. **Clone your fork** 🖥️  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/zomi-tech-hub.git
-   cd zomi-tech-hub
+   git clone https://github.com/YOUR_USERNAME/ZomiTechHub.git
+   cd ZomiTechHub
    ```
 3. **Create a new branch**  
    ```bash
